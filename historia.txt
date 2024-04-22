@@ -2,4 +2,5 @@
 Hola Hola
 ¡Hey!
 Ahora soy el mejor
-Este el el cambio que se hace en la clase 12
+Este el el cambio que se hace en la clase 12.
+Este es el otro cambio de la clase 12.

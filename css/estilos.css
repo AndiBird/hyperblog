@@ -6,6 +6,21 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background-color: #333;
+    color: #FFF;
+    padding: 0.5em;
+    text-align: center;
+}
+
+#cabecera #tagline
+{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
 #container
 {
     width: 70%;
